@@ -5,16 +5,16 @@ A demo application showing the use of the angular2-select component, an angular
 
 ## Install
 
-Install dependencies:
+Install dependencies with:
 
 ```
 npm install
 ```
 
-Build application and start local server:
+Build application and start local server with:
 
 ```
-npm run start
+ng serve
 ```
 
-The demo application should open in your web browser automatically.
+Browse to http://localhost:4200 to open the demo application.
