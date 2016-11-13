@@ -5,6 +5,12 @@ A demo application showing the use of the angular2-select component, an angular
 
 ## Install
 
+Make sure that angular-cli is installed:
+
+```
+npm install -g angular-cli
+```
+
 Install dependencies with:
 
 ```
