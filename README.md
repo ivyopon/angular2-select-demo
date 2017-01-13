@@ -5,16 +5,13 @@ A demo application showing the use of the angular2-select component, an angular
 
 ## Install
 
-Make sure that angular-cli is installed:
-
-```
-npm install -g angular-cli
-```
+Make sure that the latest versions of `yarn` and `angular-cli` are globally
+installed.
 
 Install dependencies with:
 
 ```
-npm install
+yarn install
 ```
 
 Build application and start local server with:
